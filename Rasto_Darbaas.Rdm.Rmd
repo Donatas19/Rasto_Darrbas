@@ -1,0 +1,224 @@
+---
+title: "Emigracijos ДЇ DidЕѕiД…jД… BritanijД… prieЕѕastys bei ДЇtaka Lietuvos ekonomikai"
+author: "Donat Novickij"
+date: '2019-06-25'
+output:
+  html_document: default
+  pdf_document: default
+bibliography: bibliografija.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Turinys:
+## Д®vadas
+## 1. Migracijos samprata
+## 2. Emigracijos ДЇ DidЕѕiД…jД… BritanijД… prieЕѕastys
+## 3. Emigracijos iЕЎ Lietuvos ekonominis poveikis
+## IЕЎvados
+## Е altiniai
+
+# Д®vadas
+
+Emigracija buvo ir yra viena aktualiausiЕі pasaulio problemЕі. Lietuva nД—ra iЕЎimtis. Jau XIX-XX a. prasidД—jo svarbiausios emigracijos bangos, kur vargingai gyvenantys, persekiojami bei bД—gdami nuo nuolatinД—s religinД—s arba rasinД—s diskriminacijos ЕѕmonД—s daugiausia persikelД— ДЇ Е iaurД—s ar PietЕі AmerikД…. Lietuvoje galima iЕЎskirti 3 pagrindines emigracijos bangas: XIX a. pabaigos вЂ“ XX a. pradЕѕios ekonominД— emigracija, вЂћdipukaiвЂњ pasitraukД™ iЕЎ Lietuvos Antrojo pasaulinio karo pabaigoje bei ЕЎiuolaikinД— emigracija. Kiekvienais metais vis daugiau ЕѕmoniЕі, ypaДЌ jaunЕі, palieka LietuvД… ieЕЎkodami geresnio darbo uЕѕmokesДЌio, siekdami geresnio iЕЎsilavinimo arba tiesiog saves realizavimo t.y. ieЕЎkodami naujЕі iЕЎЕЎЕ«kiЕі. Lietuvos Respublika priklauso Europos SД…jungai jau nuo 2004 m., kas leidЕѕia Lietuvos pilieДЌiams laisvai keliauti po visД… Europos SД…jungД…. BЕ«tent tai paspartina emigracijД… iЕЎ Lietuvos ДЇ uЕѕsienio ЕЎalis. Viena pagrindiniЕі tokiЕі ЕЎaliЕі ДЇ kuriД… atkeliauja Lietuvos pilieДЌiai yra DidЕѕioji Britanija. Nors emigracija suprantama kaip procesas, kuris skatina individД… ieЕЎkoti geresnio gyvenimo bЕ«do, ЕЎis procesas daro gana didelД™ ДЇtakД… ЕЎalies demografinei raidai, ekonomikai. 
+
+**Darbo objektas - ** Emigracija iЕЎ Lietuvos Respublikos.
+
+**Darbo tikslas вЂ“ ** Atskleisti emigracijos pagrindines prieЕѕastis ir poveikДЇ Lietuvos valstybД—s ekonomikai. 
+
+**Darbo metodai: ** 
+
+1. MokslinД—s literatЕ«ros analizД—. Atliekama internetiniЕі raЕЎytiniЕі ЕЎaltiniЕі bei knygЕі apie emigracijД… bei jos poveikДЇ ЕЎaliai analizД—. 
+2. Kokybinis tyrimas. StatistiniЕі duomenЕі bei lyginamoji analizД—.
+
+**Darbo uЕѕdaviniai:**
+
+1. Aptarti migracijos teorinius apsektus.
+2. IЕЎsiaiЕЎkinti, kokios prieЕѕastys skatina Lietuvos  gyventojus emigruoti ДЇ AnglijД….
+3. Atlikti emigracijos duomenЕі analizД—s apЕѕvalgД… bei ДЇvertinti jos poveikДЇ ЕЎalies ekonomikai. 
+
+# Migracijos samprata
+
+Migracija nД—ra kaЕѕkoks naujas reiЕЎkinys mЕ«sЕі visuomenД—je. Migracija mums yra Еѕinoma nuo seniausiЕі laikЕі (II tЕ«kstantmeДЌio pr. m. e. pradЕѕioje indoeuropieДЌiai pradД—jo skverbtis iЕЎ stepiЕі ДЇ Vidurio ir VakarЕі EuropД…). Е is procesas padarД— didelД™ ir reikЕЎmingД… ДЇtakД… tautЕі formavimuisi, apgyvendinamos naujos iki ЕЎiol neЕѕinomos teritorijos. Laikui begant tobulД—janti technologija bei paЕѕangos komunikacijos srityje paspartino migracijos procesД…. 
+
+Migracija - Еѕodis kilД™s iЕЎ lot. kalbos вЂћmigratioвЂњ, kuris reiЕЎkia keliavimД… t.y. kД—limasis iЕЎ vienos gyvenamosios vietos ДЇ kitД…. TaДЌiau tarptautiniu lygmeniu visuotinai pripaЕѕintos termino вЂћmigracijaвЂњ apibrД—Еѕties nД—ra (LietuviЕі kalbos Еѕodynas). 
+
+Migracija yra ДЇvairialypis procesas, susijД™s su ЕЎaliЕі sД…lygomis, jЕі traukos ir stЕ«mos jД—gomis, veikiantis socialinД™, ekonominД™, politinД™, demografinД™ ir kitas ЕЎaliЕі sistemas, ДЇtakojantis jЕі gerovД™ ir vystymД…si. (StulgienД—, 2009). 
+
+MigracijД…, kaip savokД…, neДЇmanoma vienareikЕЎmiЕЎkai apibЕ«dinti. Tai yra gana sudД—tingas reiЕЎkinys, kurДЇ kiekvienas iЕЎ mЕ«sЕі suvokia ir supranta kitaip. 
+
+Д®vairiausi mokslininkai migracijД… apibrД—Еѕia skirtingai. NД—ra tam tikros vieningos nuomonД—s. TaДЌiau yra iЕЎskiriami svarbiausi du terminai apibЕ«dantys migracijД…: daugialypiЕЎkumas bei dinamiЕЎkumas.
+ 
+MaslauskaitД—s nuomone (2007), nД—ra vieno migracijos apibrД—Еѕimo ir politiniame, socialiniame, ekonominiame kontekstuose migracijos samprata Еѕymiai skiriasi.
+
+Tai galima ДЇЕѕvelgti pateiktoje lentelД—je nr. 1: 
+
+**LentelД— nr.1: Migracijos apibreЕѕimai.**
+
+```{r table, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <-"
+
+| Autorius                                             | ApibrД—Еѕimas |
+|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. GuЕЎДЌinskienД— (2001)                            | 1. Migracija вЂ“ tai individЕі ar jЕі grupiЕі pastovios gyvenamosios vietos keitimo procesas, kuris pasireiЕЎkia persikД—limu ДЇ kitД… regionД…, geografinДЇ rajonД… arba kitД… ЕЎalДЇ.                                                                                                                           |
+| 2. KasnauskienД— (2006)                              | 2. Migracija apibrД—Еѕiama kaip gyventojЕі kД—limasis arba perkД—limas gyventi iЕЎ vienos vietovД—s ДЇ kitД… tam tikram nustatytam laikotarpiui.                                                                                                                                                                        |                        
+| 3. A. SipaviДЌienД— (2006)                           | 3. Terminu migracija nusakomas toks ilgalaikis gyvenamosios vietos pakeitimas, kurio rezultatas вЂ“ gyventojЕі skaiДЌiaus ir struktЕ«ros pasikeitimai iЕЎvykimo bei atvykimo teritorijose.      |                                                 
+| 4. V. M. Moiseenko (1994)                            | 4. Migracija suprantama kaip gyvenamosios vietos keitimas visam arba tam tikram laikui kertant ЕЎaliЕі teritorines ribas.                                                                         |                                                 
+| 5. EMT prieglobsДЌio ir migracijos terminЕі Еѕodynas | 5. Migracija - asmens judД—jimas kertant tarptautinД™ sienД… (tarptautinД— migracija) arba valstybД—s viduje (migracija ЕЎalies viduje), kai iЕЎvykstama ilgesniam nei vieneriЕі metЕі laikotarpiui, neatsiЕѕvelgiant ДЇ tai, ar jis iЕЎvyko savanoriЕЎkai ar ne, teisД—tai ar ne.                                       |
+| 6. AtsiЕѕvelgiant ДЇ ES apibrД—ЕѕimД…                | 6. Migracija - procesas, kai asmuo kurio ankstesnД— nuolatinД— gyvenamoji vieta buvo kurioje nors valstybД—je narД—je arba treДЌiojoje ЕЎalyje, apsigyvena kitos valstybД—s narД—s, kuri tampa jo nuolatinД—s gyvenamosios vietos ЕЎalimi, teritorijoje laikotarpiui, kuris yra arba, kaip manoma, bus ne trumpesnis kaip 12 mД—nesiЕі. | 
+"
+cat(tabl)
+
+```
+
+Galima pastebД—ti, jog migracija yra suprantama siaurД…ja ir plaДЌiД…ja prasme. Kiekvienas autorius atsiЕѕvelgia ДЇ tam tikrus skirtingus aspektus, kurie lemia skirtingЕі sД…vokЕі, nuomoniЕі formavimД…sДЇ. Siauresne prasme migracija suvokiama kaip perД—jimas iЕЎ vienos vietos ДЇ kitД…. TaДЌiau platesniu poЕѕiЕ«riu atsiЕѕvelgiama ДЇ migracijos trukmД™, tikslД…, taip pat jos rЕ«ЕЎДЇ. KodД—l egzistuoja tiek daug skirtingЕі migracijos apibrД—ЕѕimЕі? Atsakymas vienintelis. Kiekvienam individui migracijos kombinacija sava. 
+
+Migracija apima ДЇvairiausias gyventojЕі persikД—limo formas. Migracijos srautai formuojasi ne vien dД—l klimato, politikos arba ekonomikos prieЕѕasДЌiЕі. Be to, tai nД—ra vien iЕЎvykimas ДЇ kitД… kontinentД… kelionД—s tikslais. Migracija taip pat apima tokius judД—jimus kaip iЕЎvykimД… ieЕЎkant geresnio iЕЎsilavinimo, geresniЕі darbo sД…lygЕі, atostogauti.
+
+Migracija gali bЕ«ti skirstoma pagal: 
+
+* TrukmД™ вЂ“ nuolatinД—, laikinoji, sezoninД— migracija 
+
+* KryptДЇ вЂ“ vidinД—, tarpvalstybinД— migracija 
+
+* PrieЕѕastДЇ вЂ“ savanoriЕЎka, priverstinД— migracij
+
+Remiantis visomis pateiktomis anksДЌiau sД…vokomis, galima pateikti tokДЇ tarptautinД—s migracijos apibrД—ЕѕimД…: tai gyventojЕі persikД—limas iЕЎ vienos vietos ilgesniam laikui ДЇ kitД…. Galima pastebД—ti, kad tarptautinД— migracija gali bЕ«ti ilgalaikД— ir trumpalaikД—. DaЕѕniausiai ilgalaikД— migracija vertinama neigiamai, nes iЕЎvykusieji emigrantai nebegrДЇЕѕta ДЇ savo tД—vynД™, prarandamos lД—ЕЎos bei darbo jД—ga. Tuo tarpu trumpalaikД— emigracija suvokiama kaip reikЕЎmingas faktorius ЕЎalies ekonomikai sunkiu laikotarpiu: sumaЕѕД—ja nedarbo lygis, padidД—ja ЕѕmoniЕі pajamos, svetimuose ЕЎalyse ДЇgyjama naudinga patirtis.
+
+Apibendrinant, galima teigti, jog skirtingi ЕѕmonД—s skirtingai klasifikuoja migracijos apibrД—ЕѕimД…, kiekvienas tyrД—jas pateikia savotiЕЎkai modifikuotД… migracijos sД…vokД…, iЕЎreiЕЎkia skirtingД… poЕѕiЕ«rДЇ ДЇ ЕЎДЇ globalinДЇ procesД…. TaДЌiau nors migracija skirtingЕі autoriЕі apibrД—Еѕiama nevienodai, visi apibrД—Еѕimai turi tam tikrЕі panaЕЎЕ«mЕі, kai kurie yra netgi tarpusavy panaЕЎЕ«s. Vis dД—lto nД—ra vieningos sД…vokos, kuri tiksliausiai apibЕ«dintЕі migracijД…. Kai kurie pateikia siauresnДЇ apibrД—ЕѕimД…, tuo tarpu kai kiti plaДЌiau paaiЕЎkina ЕЎДЇ procesД… ir jo paskirtДЇ. 
+
+ 
+## Emigracijos ДЇ DidЕѕiД…jД… BritanijД… prieЕѕastys
+
+Nors ekonomika Lietuvoje kasmet tobulД—ja, auga, taДЌiau emigracija lieka svarbiausia problema. Pagal Statistikos departamento duomenis migracijos rodikliai Lietuvoje sparДЌiai auga. ЕЅemiau pateiktoje lenteleje pavaizduoti 2015-2017m. uЕѕsienio migracijos absoliutЕ«s metiniai skaiДЌiai: emigrantai, imigrantai bei jЕі metinД— grynoji migracija.
+
+**LentelД— nr. 2: UЕѕsienio migracijos absoliutЕ«s metiniai skaiДЌiai 2015-2017m. Lietuvoje.**
+
+```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+
+tabl <-"
+
+| EmigrantЕі skaiДЌ. (tЕ«kst.) | ImigrantЕі skaiДЌ. (tЕ«kst.) | MetinД— grynoji migracija (tЕ«kst.) |
+|:-----------------------------|:-----------------------------| ----------------------------------- |
+| 142 791                      | 62 660                       | -80 131                             |
+
+"
+cat(tabl)
+
+```
+
+**Е altinis: Lietuvos statistikos departamentas**
+
+
+Lietuva yra viena iЕЎ ES valstybiЕі, iЕЎ kurios daugiausia emigruoja gyventojai. PastebД—ta, jog ЕЎalis, kuri daugiausiai pritraukia Lietuvos gyventojЕі dД—mesДЇ yra DidЕѕioji Britanija. Nenaujiena, jog pagrindinД— lietuviЕі emigrantЕі tikslo ЕЎalis yra JungtinД— KaralystД—. Anot Lietuvos statistikos departamento vidutiniЕЎkai apie puse visЕі iЕЎvykstanДЌiЕіjЕі renkasi ЕЎiД… valstybД™. IЕЎ 2 lentelД—s galima pastebД—ti, kad pusД— emigrantЕі kasmet nebegrДЇЕѕta atgal ДЇ LietuvД…, kas smarkiai paveikia ЕЎalies demografinД™ raidД…, ekonomikД….
+
+Veiksniai, kurie lemia emigracijos augimД…, gali bЕ«ti ДЇvairЕ«s. AtsiЕѕvelgiant ДЇ auksДЌiau minД—tas migracijos sД…vokas galima iЕЎskirti ЕЎiuos bendruosius migracijos faktorius: ekonominius, demografinius, politinius, socialinius, kultЕ«rinius, geografinius ir kt. TaДЌiau anot DamulienД—s (2013), neДЇmanoma ДЇvardyti visЕі migracijod lemianДЌiЕі veiksniЕі, kadangi kiekvienas Еѕmogus skirtingai vertina,interpretuoja tam tikras aplinkybes. 
+
+Nors dauguma ДЇvairiausiЕі veiksniЕі lemia emigracijos augimД…, taДЌiau svarbiausiais yra laikomi ekonominiai aspektai. Verta pastebД—ti, jog jie gali bЕ«ti skirstomi ДЇ makroekonominius bei mikroekonominius veiksnius. Makrolygio veiksniai gali bЕ«ti apibЕ«dinami kaip objektyvios sД…lygos, kuriose asmuo dirba bei gyvena, o mikrolygio veiksniai вЂ“ kaip tam tikros subjektyvios sД…lygos bei individualЕ«s asmenЕі motyvai, kurie lemia sprendimД… migruoti (KvainauskaitД— 2004).
+
+**LentelД— nr. 3: Migracija lemiantys pagrindiniai veiksniai.**
+
+```{r table, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+
+tabl <-"
+
+| Autoriai                                                         | Migracija lemiantys pagrindiniai veiksniai |
+|:-----------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1. KvainauskaitД— (2004), StankЕ«nienД— (2007), Pilinkiene (2009) | 1. Ekonominiai. Makrolygio - Nevienodi ЕЎaliЕі ekonominio iЕЎsivystymo lygiai, ЕЎaliЕі gyvenimo lygiЕі skirtumai, ir kt. Mikrolygio - IЕЎsilavinimo lygis, amЕѕius, kalbos barjeras.   |
+|2. Lietuvos laisvosios rinkos institutas (2006)                   | 2. Politiniai. PolitinД— santvarka, rinkimЕі rezultatai.                                                                                                                             |                        
+|3. BlebienД— (2008)                                               | 3. Socialiniai. Е alies arba darbo prestiЕѕai, nesaugumo jausmas.                                                                                                                      |
+|4. Lietuvos laisvosios rinkos institutas (2006)                   | 4. Kulturiniai. Е alies kalbos paЕѕinimas, noras praplД—sti akiratДЇ.                                                                                                                    |
+|4. Lietuvos laisvosios rinkos institutas (2006)                   | 5. Geografiniai. Klimato sД…lygos.                                                                                                                                                      |
+"
+cat(tabl)
+
+```
+
+AtsiЕѕvelgiant ДЇ 2 lentelД™, emigracijД… lemia ДЇvairЕ«s faktoriai, kuriuos galima klasifikuoti ДЇ skirtingas grupes: ekonominius, politinius, socialinius, demografinius, kultЕ«rinius, geografinius. TaДЌiau kalbant apie AnglijД… iЕЎ Lietuvos ДЇ ЕЎiД… valstybД™ daЕѕniausiai emigruojama dД—l 3 pagrindiniЕі prieЕѕasДЌiЕі: darbo uЕѕmokД—sДЌio ir didelio nedarbo lygio, ЕЎvietimo bei kultЕ«ros ir laisvД—s. 
+
+**Finansiniai sunkumai.** Д®rodyta, jog Lietuvos gyventojai turi daugiau karjeros perspektyvЕі DidЕѕiojoje Britanijoje, negu gimtinД—je. YpaДЌ individai turintys aukЕЎtД…jДЇ iЕЎsilavinimД… tikisi gerД—snio darbo atlyginimo labiau iЕЎsivysДЌiusioje ЕЎalyje, kaip Anglija. Anot Lietuvos Statistikos Departamento Lietuvos minimalus atlyginimas 2018 m. yra 400 eur., o DidЕѕ. Britanijos вЂ“ apie 1400 eur. Vyriausybe nustatyta minimali alga Lietuvoje yra Еѕymiai maЕѕesnД—, nei Anglijoje. BЕ«tent tai kelia didЕѕiulДЇ nepasitenkinimД… tarp Lietuvos gyventojЕі. BЕ«tent maЕѕi atlyginimai skatina Еѕmones ieЕЎkoti geresniЕі darbo sД…lygЕі kitur, iЕЎ kuriЕі didЕѕiausia dalis pasirenka AnglijД…. DidЕѕ. Britanija yra viena ES valstybiЕі, kurioje yra vienas didЕѕiausiu minimaliЕі atlyginimЕі. Taip pat verta paЕѕymД—ti, kad per pasatruosius metus Anglijoje sparДЌiai maЕѕД—ja nedarbo lygis. Tuo tarpu Lietuvoje jis neЕѕymiai keiДЌiasi. Pernais 2018 m. Sausio mД—n. Lietuvoje nedarbo lygis siekД— 6.7 proc., o Anglijoje apie 4.2 proc. Tai patvirtina faktД…, jog Lietuvoje yra visgi sunkiau rasti tinkamД… darbД….
+
+**Е vietimas bei kultЕ«ra.** NemaЕѕai atsiranda iЕЎvykstanДЌiЕі iЕЎ Lietuvos norinДЌiЕі iЕЎbandyti save, ieЕЎkanДЌiЕі naujos gyvenimo patirties. Noras praplД—sti akiratДЇ bei suprasti, kД… reiЕЎkia gyventi svetimoje ЕЎalyje yra puiki savirealizacija. Daugelis iЕЎvyksta ДЇ AnglijД… norД—dami praplД—sti anglЕі kalbos Еѕinias, paЕѕinti ЕЎalies kultЕ«rД…, taДЌiau yra ir tokiЕі, kurie palieka savo gimtД…jДЇ kraЕЎtД… dД—l gerД—snio iЕЎsilavinimo. Juk Anglijoje ДЇkЕ«rti vieni prestiЕѕiskiausiЕі ir seniausiЕі pasaulio universitetai, kurie gali pasigirti garsiais absolventais. Taip pat galima pabrД—Еѕti, kad Lietuvos darbo birЕѕos duomenimis, ЕЎalyje vis didesnД™ bedarbiЕі dalДЇ sudaro asmenys, turintys aukЕЎtД…jДЇ iЕЎsilavinimД…, kas reiskia jog ЕѕmonД—s ДЇgyje aukЕЎtД…jДЇ iЕЎsilavinimД… neranda sau tinkamo darbo. Lietuvoje laisvЕі darbo vietЕі darbo rinkoje tokiems specialistams nedidД—ja, tuo tarpu Anglijoje emigrantai turi didesnД™ tikimybД™ rasti tinkamД… darbД…, kopti karjeros laiptais. 
+
+**Nepasitenkinimas Lietuva.** Akivaizdu, jog daugelis emigrantЕі, tai ЕѕmonД—s bД—gantys nuo lietuviЕЎko valdymo. Tyrimai atskleidД—, jog dauguma kritikavo LietuvД… uЕѕ ekonominД™ nelygybД™ bei tolerancijos stokД… (Dainiaus Genio Lietuvos migracijos prieЕѕasДЌiЕі tyrimas). Anot Manto, vyro dalyvavusio apklausoje, вЂћJungtinД—je KaralystД—je ЕѕmonД—s yra tolerantiЕЎki, taigi kiekvienas gali bЕ«ti savimiвЂњ. Anglijoje jo teigimu ЕѕmonД—s turi daugiau teisiЕі, Anglija pasiЕѕymi pagarba kitam asmeniui. Taip pat galima pastebД—ti, jog Lietuvoje egzistuoja nuo SovietЕі SД…jungos iЕЎlikusi darbuotojЕі teisiЕі nelygybД—, kas labiausiai piktina vyrД…. BЕ«tent todД—l kai kurie Lietuvos gyventojai palieka savo kraЕЎtД… ieЕЎkodami laimД—s svetur, ten, kur jos Еѕymiai daugiau.
+
+## Emigracijos iЕЎ Lietuvos ekonominis poveikis 
+
+NeДЇmanoma vienareikЕЎmiЕЎkai ДЇvertinti emigracijos poveikДЇ Lietuvos ekonomikai. Egzistuoja tam tikros teigiamos bei neigiamos pasekmД—s. 
+
+**Teigiamas poveikis:**
+
+**Nedarbo lygio maЕѕД—jimas.** ЕЅmonД—s, kurie emigruoja ДЇ AnglijД… (ir ne tik), uЕѕtikrina, kad Lietuvoje atsiranda daugiau darbo vietЕі. Lietuvos Statistikos departamento duomenimis, 2010-2017 metais uЕѕfiksuotas nedarbo lygio sumaЕѕД—jimas nuo 18 proc. iki apie 7 proc. (Е altinis: Lietuvos statistikos departamentas).
+
+Ne vien emigracija prisidД—jo prie nedarbo maЕѕД—jimo, taДЌiau Lietuvoje atsiranda vis daugiau darbo vietЕі. Pastebima ryЕЎkus teigiamas socialinis poveikis, nes daugiau ЕѕmoniЕі galД—s ДЇsidarbinti, kas taip pat skatina Lietuvos ekonomikos augimД….
+
+**Tegiamas poveikis ES formavimuisi.** 2004 metЕі geguЕѕД—s 1 d. вЂ“ tai labai svarbi diena Lietuvos istorijoje, kadangi Lietuva tapo ES nare. SustiprД—jД™s ir augantis Lietuvos Е«kis, Lietuvos energetinД— nepriklausomybД—, laisvas asmenЕі judД—jimas visoje ES вЂ“ visa tai yra Lietuvos narystД—s nauda ES (Lietuvos Respublikos uЕѕsienio reikalЕі ministerija). TaДЌiau dД—l ryЕЎkios emigracijos iЕЎ Lietuvos ДЇ AnglijД… galima iЕЎskirti dar vienД… teigiamД… pasekmД™. Lietuvos darbo jД—ga yra reikЕЎmingai naudojama ES ЕЎaliЕі darbo rinkoje. Tai daro didelД™ ДЇtakД… ES tobulinimui. DidЕѕiosios Britanijos Vice Ministro Pirmininko biuro 2005 metЕі ataskaitoje apie padД—tДЇ darbo rinkoje buvo pabrД—Еѕta, jog вЂњNaujЕі ES ЕЎaliЕі-nariЕі darbo jД—ga padeda DidЕѕiosios Britanijos ekonomikai efektyviai uЕѕpildyti nacionalinД—s darbo rinkos spragas, kas tiesiogiai stiprina ЕЎalies Е«kio galimybes.вЂќ Taip pat galima ДЇЕѕvlegti, jog uЕѕsienyje gyvenanДЌiЕі lietuviЕі Еѕinios ir patirtys yra gana naudingas tarptautinis resursas, kurДЇ jie gali panaudoti Lietuvos gerovД—s formavimuisi. 
+
+**AtllyginimЕі augimas.** Viena iЕЎ iЕЎoriniЕі emigracijos tegiamЕі pasekmiЕі yra vidutinio darbo uЕѕmokД—sДЌio padidД—jimas. DarbuotojЕі sumaЕѕД—jimas skatinas kilti atlyginimus, kas uЕѕtikrina vidutinio darbo uЕѕmokД—sДЌio prieaugДЇ. Darbdaviai norД—dami sumaЕѕinti emigracijД… yra pasiruosД™ pasiЕ«lyti didesnДЇ atlygДЇ, kad pritrauktЕі kuo daugiau ЕѕmoniЕі grДЇЕѕti. TaДЌiau dД—l tokio elgesio ДЇmonД— patiria neigiamЕі pasekmiЕі, nes didД—ja darbo jД—gos sД…naudos. Д®monД—s privalo maЕѕinti investicijas, norД—dami iЕЎvengti nemalonumЕі. 
+
+Nuo 2015 m. Iki 2018 m. pagal Bruto jis padidД—jo nuo maЕѕdaug 750 iki 900 eurЕі. Nors prieaugis nД—ra milЕѕiniЕЎkai spartus, taДЌiau maЕѕiausias prieaugis yra efektyvus ir reikЕЎmingas ЕЎalies ekonomikai (Е altinis: Lietuvos statistikos departamentas).
+
+**PagerД—ja darbo sД…lygos.** DД—l darbo jД—gos trukumo kai kuriuose ДЇmonД—se pagerД—ja darbo sД…lygos. Tai yra taip pat viena teigiamЕі emigracijos aspektЕі. Darbdaviai norД—dami sumaЕѕinti darbo jД—gos sumaЕѕД—jimД… yra pasirengД™ sukurti saugesnД™ bei palankesnД™ darbo aplinkД… darbuotojams. UЕѕtikrinant palankesnes ir sveikesnes sД…lygas darbuotojams dirbti darbdaviai taip pat ДЇsipareigoja sumaЕѕinti nelaimingЕі atsitikimЕі kiekДЇ. Saugumas yra vienas svarbiausiЕі darbo faktoriЕі. Taigi atsiranda spaudimas kurti patrauklesnes darbo sД…lygas ir siЕ«lyti konkurencingesnius atlyginimus siekiant iЕЎlaikyti darbuotojus, sumaЕѕinti jЕі iЕЎvykimД….
+
+**Neigiamos emigracijos pasekmД—s:**
+
+**Demografinis poveikis.** Statistikos departamento nuomone, daugiausia emigruoja iЕЎ Lietuvos jaunimas. Nuolat didД—ja jaunЕі ЕѕmoniЕі, kurie iЕЎvaЕѕiuoja studijuoti arba dirbti ДЇ uЕѕsienДЇ ir neketina grДЇЕѕti atgal. Tai gana neigiamai veikia ЕЎalies demografinД™ situacijД…, prarandama ypaДЌ reikЕЎmingiausia darbo jД—ga, pasireiЕЎkia specialistЕі ir 
+aukЕЎtos profesinД—s kvalifikacijos darbuotojЕі bei darbininkЕі skaiДЌiaus Lietuvoje maЕѕД—jimas ir kas svarbiausia dД—l jaunЕі asmenЕі emigracijos pastebimas visuomenД—s senД—jimo reiЕЎkinys. MaЕѕД—ja gimstamumas, tuo tapru didД—ja mirtingumas.
+
+**LentelД— nr. 6: GyventojЕі skaiДЌius Lietuvoje 2015-2018 m.**
+
+```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+
+tabl <-"
+
+| Metai  | GyventojЕі skaiДЌius (mln.) |
+|:-------|:----------------------------|
+| 2015   | 2 921 262                   |
+| 2016   | 2 888 558                   |                        
+| 2017   | 2 847 904                   |
+| 2018   | 2 808 901                   |
+
+"
+cat(tabl)
+
+```
+
+**Е altinis: http://mapijoziai.lt/gyventoju-skaicius-lietuvoje-1992-2019-m/**
+
+Galima pastebД—ti, jog gyventojЕі skaiДЌius Lietuvoje pastaraisiais metais vis maЕѕД—ja. Nuo 2015-2018 m. Lietuvos kraЕЎtД… paliko 112 361 tЕ«kst. gyventojЕі. Tai tik patvirtina faktД…, jog emigracija yra gana aktualus procesas Lietuvoje.
+
+Dainiaus Genio minД—toje apklausoje dalyvavusiЕі emigrantЕі buvo paklausta, ar jie planuoja grДЇЕѕti atgal ДЇ LietuvД…. Akivaizdu, kad daugiau nei pusД— respondentЕі teigД—, kad ЕЎiuo metu grДЇЕѕti neplanuoja. Kiti dalyviai teigД—, kad ДЇ LietuvД… grДЇЕѕtЕі tik tuo atveju, jeigu pagerД—tЕі ekonominД—s ir socialinД—s sД…lygos. 
+
+Taip pat prie neigiamЕі poveikiЕі ЕЎalies vystymuisi galima priskirti: 
+
+* Prarandamos lД—ЕЎos, kurios buvo investuotos ДЇ ЕѕmoniЕі iЕЎsilavinimД… ir specialistЕі parengimД… 
+
+* BVP maЕѕД—jimas 
+
+* MaЕѕД—jantis investicinis patrauklumas 
+
+Taigi, galima pastebД—ti, kad dД—l Lietuvoje vykstanДЌiЕі emigracijos procesЕі prarandamas ЕЎalies ekonominis konkurencinis potencialas. 
+
+
+## IЕ VADOS
+
+Migracijos procesai visais laikais buvo ir yra aktualЕ«s. Tai yra gana sudД—tingas reiЕЎkinys, kurДЇ neДЇmanoma vienareikЕЎmiЕЎkai apibЕ«dinti. Kiekvienas iЕЎ mЕ«sЕі suvokia migracijД… skirtingai, todД—l nД—ra vieno pripaЕѕinto tarptautinio apibrД—Еѕimo. DaЕѕniausiai ЕЎis procesas yra skirstomas pagal laikД…, kryptДЇ bei prieЕѕastДЇ. Nors migracijos sД…voka skirtinguose kontekstuose (politiniame, ekonominiame, itt.) skiriasi, taДЌiau visos sД…vokos turi kaЕѕkД… bendro. 
+
+Emigracija Lietuvoje yra vienas aktualiausiЕі reiЕЎkiniЕі. AtsiЕѕvelgiant ДЇ mokslinД™ literatЕ«rД… ЕЎalis, ДЇ kuriД… daЕѕniausiai pasirenka emigruoti Lietuvos gyventojai yra DidЕѕioji Britanija. Egzistuoja keli tam tikri migracijД… skatinanti faktoriai, iЕЎ kuriЕі ekonominiai veksniai lemia migracijos augimД… daugiausiai. Svarbiausios prieЕѕastys dД—l kuriЕі Lietuvos pilieДЌiai palieka iЕЎvyksta ДЇ AnglijД…: dД—l didesnio uЕѕmokД—sДЌio, saves paЕѕinimo bei naujos gyvenimo patirties paieЕЎkos, nepasitenkinimas Lietuvos gyvenimo sД…lygomis.
+
+Emigracija daro kaip teigiamД…, taip ir neigiamД… ДЇtakД… Lietuvos ЕЎalies ekonomikai. Е io reiЕЎkinio teigiamos pasekmД—s yra akivaizdЕѕios - nedarbo lygio sumaЕѕД—jimas Lietuvoje, paspartina ES tobulД—jimД…, saves realizavimas bei naujЕі ЕѕiniЕі ДЇsisavinimas, atlyginimЕі Lietuvoje pakilimas. Emigracija yra ne vien sekmД—s lobis. Е is ypatingas procesas yra vienas pagrindiniЕі Lietuvos ekonomikos stabdymo prieЕѕasДЌiЕі вЂ“ gyventojЕі skaiДЌiaus sumaЕѕД—jimas, maЕѕД—jantis BVP bei investicinis patrauklumas, prarandama jauna darbo jД—ga, maЕѕД—ja gimstamumas, ЕЎeimЕі kiekis. 
+
+## LITERATЕЄRA
+
+1. SipaviДЌienД— A.. TarptautinД— gyventojЕі migracija Lietuvoje: modelio kaita ir situacijos analizД—, вЂ“ Vilnius: TarptautinД— migracijos organizacija, 2006. 
+2. KasnauskienД—, G.; Е iaudvytis, T. 2010. GyventojЕі emigracijos poveikio darbo rinkai vertinimas. Lietuvos statistikos darbai 49: 12вЂ“19. 
+3. Moiseenko, V. M. 1994. Migracija naselenija. EnciklopediДЌieskij slovar narodonaselenija. Moskva. 
+4. SipaviДЌienД—, A. (2006). TarptautinД— gyventojЕі migracija Lietuvoje: modelio kaita ir situacijos analizД—. Prieiga per internetД…: http://www.iom.lt/documents/A.Sipavicienemigracija.pdf. (ЕѕiЕ«rД—ta 2019-06-16). 
+5. GuЕЎДЌinskienД— J. Sociologijos ДЇvadas: struktЕ«rinД—s loginД—s schemos ir komentarai: mokomoji knyga. вЂ“ Kaunas: Technologija, 2001. 
+6. DamulienД—, A. 2013. Migracijos problema Lietuvoje ir jos ДЇtaka ЕЎalies ekonomikai, Business Systems and Economics.
+7. Emigracija tautieДЌiЕі akimis: pagrindinД— ЕѕmoniЕі iЕЎvykimo prieЕѕastis вЂ“ finansai. Prieiga per internetД…: http://www.anglija.today/imigracija/emigracija-tautieciu-akimis-pokalbis-su-trimis pasnekovais (ЕѕiЕ«rД—ta 2019-06-16). 8. Lietuviai pasaulyje. Prieiga per internetД…: http://www.iseivijosinstitutas.lt/lietuviai-pasaulyje (ЕѕiЕ«rД—ta 2019-06-16). 
+8. Emigracija. Kas vilioja ДЇ svetimus kraЕЎtus? Prieiga per internetД…: https://www.zmones.lt/naujiena/emigracija-kas-vilioja-i-svetimus-krastus.6fed3597-9adf-11e8-9f90-aa000054c883 (ЕѕiЕ«rД—ta 2019-06-16). 
+9. Tyrimas atskleidД—, dД—l ko emigruoja lietuviai: per maЕѕi atlyginimai вЂ“ tik viena iЕЎ prieЕѕasДЌiЕі. Prieiga per internetД…: https://www.delfi.lt/news/daily/lithuania/tyrimas-atskleide-del-ko-emigruoja-lietuviai-per-mazi-atlyginimai-tik-viena-is-priezasciu.d?id=79259323 (ЕѕiЕ«rД—ta 2019-06-16). 11. Lietuvos statistikos departamentas. Prieiga per internetД…: https://www.stat.gov.lt/ (ЕѕiЕ«rД—ta 2019-06-16). 
+10. Lietuvos gyventojЕі migracija. Prieiga per internetД…: https://smp2014ge.ugdome.lt/mo/9kl_visuomenine_geografija/GE_DE_28/teorine_medziaga_3_1.html (ЕѕiЕ«rД—ta 2019-06-16).
